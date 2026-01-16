@@ -10,6 +10,11 @@ public class Student {
 	
 	private String stId;
 	private String stName;
+	private String stAdd;
+	private String stEmail;
+	private String stGender;
+	private int stAge;
+	
 	
 
 	
